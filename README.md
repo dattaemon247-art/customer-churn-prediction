@@ -17,3 +17,36 @@ Machine Learning project for predicting customer churn using multiple classifica
 - Decision Tree
 - Model Comparison
 - FastAPI Deployment
+
+
+## Project Workflow
+
+Project Setup
+
+↓
+
+Data Understanding
+
+↓
+
+EDA
+
+↓
+
+Preprocessing
+
+↓
+
+Feature Engineering
+
+↓
+
+Model Training
+
+↓
+
+Model Evaluation
+
+↓
+
+Deployment
